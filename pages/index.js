@@ -64,8 +64,8 @@ const productos = [
     slug: "bikini-blanco-perla",
     imagenesExtra: [
       "/nuevo2.jpeg",
-      "/nuevo3.jpg",
-      "/nuevo4.jpg"
+      "/nuevo3.JPG",
+      "/nuevo4.JPG"
     ]
   }
 ];
